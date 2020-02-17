@@ -51,6 +51,7 @@ h2 {
   display: block;
   position: absolute;
   margin-top: 385px;
+  opacity: 0.6;
 }
 
 .goods-content {
