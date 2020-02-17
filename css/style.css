@@ -26,7 +26,7 @@ body {
 h1 {
   font-family: "Evogria", sans-serif;
   font-size: 60px;
-  color: #fafafa;
+  color: #ffffff;
   text-align: center;
   margin-top: 169px;
 }
@@ -50,7 +50,7 @@ h2 {
   content: url("../images/board.png");
   display: block;
   position: absolute;
-  margin-top: 384px;
+  margin-top: 383px;
 }
 
 .goods-content {
@@ -79,7 +79,7 @@ h2 {
 .goods-info {
   font-family: "Bebas Neue", sans-serif;
   font-size: 24px;
-  color: #fafafa;
+  color: #ffffff;
   text-align: center;
   margin-top: 30px;
 }
