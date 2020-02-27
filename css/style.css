@@ -39,7 +39,7 @@ h2 {
   font-family: "Bebas Neue", sans-serif;
   font-size: 36px;
   color: #ffffff;
-  text-align: center;
+  text-align: justify;
 }
 
 .fruits-goods {
@@ -50,13 +50,13 @@ h2 {
   content: url("../images/board.png");
   display: block;
   position: absolute;
-  margin-top: 385px;
+  margin-top: 383px;
 }
 
 .goods-content {
   display: flex;
   justify-content: space-between;
-  margin-top: 90px;
+  margin-top: 91px;
 }
 
 .goods-img {
